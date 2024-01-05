@@ -29,6 +29,8 @@ class ViewController: UIViewController {
         for textField in textFields {
             textField.InputConfigurations()
         }
+        // TODO: MAKE LOGIN BUTTION CONFIGUREATIO
+        
     }
 }
 
